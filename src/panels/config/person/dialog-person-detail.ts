@@ -344,7 +344,7 @@ class DialogPersonDetail extends LitElement {
     );
     if (!credential) {
       showAlertDialog(this, {
-        title: "No Home Assistant credentials found.",
+        title: "No RiverOS credentials found.",
       });
       return;
     }

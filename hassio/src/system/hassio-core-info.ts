@@ -150,7 +150,7 @@ class HassioCoreInfo extends LitElement {
           title: this.supervisor.localize(
             "common.failed_to_restart_name",
             "name",
-            "Home AssistantCore"
+            "Home Assistant Core"
           ),
           text: extractApiErrorMessage(err),
         });

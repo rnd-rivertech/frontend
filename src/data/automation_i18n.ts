@@ -57,9 +57,9 @@ export const describeTrigger = (
     return `When ${eventTypes} event is fired`;
   }
 
-  // Home Assistant Trigger
+  // RiverOS Trigger
   if (trigger.platform === "homeassistant" && trigger.event) {
-    return `When Home Assistant is ${
+    return `When RiverOS is ${
       trigger.event === "start" ? "started" : "shutdown"
     }`;
   }

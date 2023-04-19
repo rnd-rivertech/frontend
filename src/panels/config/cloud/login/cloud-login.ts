@@ -46,11 +46,11 @@ export class CloudLogin extends LitElement {
       <hass-subpage
         .hass=${this.hass}
         .narrow=${this.narrow}
-        header="Home Assistant Cloud"
+        header="RiverOS Cloud"
       >
         <div class="content">
           <ha-config-section .isWide=${this.isWide}>
-            <span slot="header">Home Assistant Cloud</span>
+            <span slot="header">RiverOS Cloud</span>
             <div slot="introduction">
               <p>
                 ${this.hass.localize(

@@ -2,7 +2,7 @@
   "description": "A frontend for Home Assistant",
   "repository": {
     "type": "git",
-    "url": "https://github.com/home-assistant/frontend"
+    "url": "https://github.com/rnd-rivertech/frontend"
   },
   "name": "home-assistant-frontend",
   "version": "1.0.0",

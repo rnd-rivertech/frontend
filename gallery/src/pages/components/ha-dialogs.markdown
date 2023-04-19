@@ -27,6 +27,6 @@ Our dialogs are based on the latest version of Material Design. Specs and guidel
 ### Confirmation dialog
 > **Delete dashboard?**
 > 
-> Dashboard [dashboard name] will be permanently deleted from Home Assistant.
+> Dashboard [dashboard name] will be permanently deleted from RiverOS.
 > 
 > Cancel / Delete
